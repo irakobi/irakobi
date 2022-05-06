@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @irakobi
-- 👀 I’m interested in High tech-design and networking
+
+- 👀 I’m interested in High tech-design, VLSI and networking
 - 🌱 I’m currently learning fiber optics, chip designing
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+
 
 <!---
 irakobi/irakobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
