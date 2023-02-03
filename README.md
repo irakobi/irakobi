@@ -2,7 +2,7 @@
 
 -  I’m interested in High tech-design, web design and VLSI
 -  I have bachelor in Electronics and Telecommunication Engineering
--  I'm currently learning the Software Engineering, eengaging in the web development
+-  I'm currently learning the Software Engineering, engaging in the web development
 
 
 <!---
