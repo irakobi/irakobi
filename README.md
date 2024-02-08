@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @irakobi
 
--  I’m interested in High tech-design, web design and VLSI
--  I have bachelor in Electronics and Telecommunication Engineering
--  I'm currently learning the Software Engineering, engaging in the web development
+-  I’m interested in High tech-design, Data analysis and VLSI design
 
 
 <!---
